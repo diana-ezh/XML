@@ -1,0 +1,11 @@
+
+‹?xml version="1.0" encoding="UTF-8"?›
+<Summary> The price of the product in the cart is displayed without specifying the currency </Summary> 
+<Steps>
+<step_1> open the site STORE </step_1>
+<step_2> click on the name product Samsung galaxy s6 </step_2>
+<step_3> click the button “add to cart” </step_3>
+<step_4> to go to the shopping cart click “cart” at the top of the page </step_4>
+</Steps>
+<Actual result>  the price of the product is displayed without specifying currency </Actual result> 
+<Expected result> the price of the product is displayed with specifying currency USD </Expected result> 
